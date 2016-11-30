@@ -34,20 +34,25 @@ After google-ing I found out that the paginator plugin is [no longer standard in
 
 
 To fix this you have 2 options:
-* Replace paginator with site in the following piece of code in your `index.html`
-  ```html
+ * Replace paginator with site in the following piece of code in your `index.html`
+
+   ```html
     <div class="posts">
     {&#37; for post in _paginator_.posts &#37;}
     <div class="post">
-  ```
-* Add the following line to your `_config.yml`
-  ```
-  gems: [jekyll-paginate]
-  ```
-  And install the gem with ruby
-  ```
-  gem install jekyll-paginate
-  ```
+   ```
+
+ * Add the following line to your `_config.yml`
+
+   ```
+   gems: [jekyll-paginate]
+   ```
+
+   And install the gem with ruby
+
+   ```
+   gem install jekyll-paginate
+   ```
 
 Since I want to work with pagination I modified my `_config.yml` and installed the gem.
 
