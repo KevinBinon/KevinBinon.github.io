@@ -14,12 +14,15 @@ My colleague [bktid](https://bktid.github.io) posted about his adventure and how
 ## Steps I took to create this blog
 
 After talking with [sch3lp](https://sch3lp.github.io) I figured out that setting up my own blog shouldn't be that hard.
-However since I had zero knowledge about _Jekyll_, I also used [tinypress.co](http://tinypress.co) to have a functional blog in a few seconds.
+However since I had zero knowledge about _Jekyll_, I used [tinypress.co](http://tinypress.co) to have a functional blog in a few seconds.
+[Tinypress.co](http://tinypress.co) provides a web-interfaces which integrates with your GitHub-repo. It also offers a CRUD to manage your own posts on your GitHub page.
+
+I only used [tinypress.co](http://tinypress.co) for the initialisation of this blog. Since I like to have more insights on how _Jekyll_ works, I removed the integration from [tinypress.co](http://tinypress.co). Now I'm adding posts on my local machine and pushing it to my git-repo first instead of using the editor provided by [tinypress.co](http://tinypress.co).
 
 [Bktid](https://bktid.github.io) mentioned some [experimental setup](http://jekyllrb.com/docs/windows/#installation), which included installing chocolatey and ruby on windows.
-I did give it a try and I succeeded!
+I did give it a try and I succeeded! Seems it wasn't the `technical mumbojumbo` like I thought it would be.
 
-Now I'm adding posts on my local machine instead of using the editor provided by [tinypress.co](http://tinypress.co).
+
 
 ## Issue(s) I've encountered
 
