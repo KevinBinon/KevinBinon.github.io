@@ -1,0 +1,10 @@
+---
+published: true
+title: Test post
+layout: post
+tags: [n00b]
+categories: [Who, am, i]
+---
+##My first blog post!
+
+This is a test!

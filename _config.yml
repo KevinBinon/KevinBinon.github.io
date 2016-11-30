@@ -3,6 +3,6 @@ pygments: true
 markdown: kramdown
 url: http://KevinBinon.github.io
 title: Kevin Binon
-tagline: A log of everyday life
-description: My awesome new site
+tagline: Gaming is better than chocolate
+description: Life as a java dev && gamer
 paginate: 5
