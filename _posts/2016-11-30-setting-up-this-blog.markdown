@@ -34,6 +34,7 @@ After google-ing I found out that the paginator plugin is [no longer standard in
 
 
 To fix this you have 2 options:
+
  * Replace paginator with site in the following piece of code in your `index.html`
 
    ```
