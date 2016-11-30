@@ -38,7 +38,9 @@ To fix this you have 2 options:
 
    ```html
     <div class="posts">
+
     {&#37; for post in _paginator_.posts &#37;}
+
     <div class="post">
    ```
 
