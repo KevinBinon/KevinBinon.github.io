@@ -4,7 +4,7 @@ title: Setting up this blog
 layout: post
 ---
 
-## How I did became aware of GitHub pages
+## How I did become aware of GitHub pages
 
 2 weeks ago I heard about the GitHub project GitHub Pages. This project hosts a static website bound to your GitHub account build and served by [Jekyll](https://jekyllrb.com).
 
